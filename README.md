@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Flutter,back-end development**
 
 - 📫 How to reach me **jacobkoikkara4@gmail.com**
+- My portfolio : https://github.com/jacobjohnxn/portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
