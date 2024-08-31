@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **jacobkoikkara4@gmail.com**
 - My portfolio : https://github.com/jacobjohnxn/portfolio
-- My Resume : https://github.com/jacobjohnxn/portfolio/tree/main/components/jacob_johnson_k2.pdf
-
+- 📄 Here's my [Resume](https://drive.google.com/file/d/1bi22eyvnOwu96WBeH8hDD6sNbJxj20_3/view?usp=sharing)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jacobjohnxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobjohnxn" height="30" width="40" /></a>
