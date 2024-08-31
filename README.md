@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **jacobkoikkara4@gmail.com**
 - My portfolio : https://github.com/jacobjohnxn/portfolio
+- My Resume : https://github.com/jacobjohnxn/portfolio/tree/main/components/jacob_johnson_k2.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
