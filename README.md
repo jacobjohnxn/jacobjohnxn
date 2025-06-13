@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JACOB JOHNSON K</h1>
-<h3 align="center">I am a final-year BTech student majoring in Computer Science(Data Sceince)</h3>
+<h3 align="center">I am a  B.Tech graduate in Computer Science(Data Sceince)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobjohnxn&label=Profile%20views&color=0e75b6&style=flat" alt="jacobjohnxn" /> </p>
 
